@@ -1,0 +1,8 @@
+{
+  "name": "O P Engineering - Fire Fighting Solutions",
+  "description": "Specialists in Turnkey Fire Fighting Solutions, Hydrant Systems, Sprinklers, Gas Suppression and Detection Networks (Estd. 1990).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
